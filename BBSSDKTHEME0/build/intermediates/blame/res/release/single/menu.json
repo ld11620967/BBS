@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\menu\\bbs_themeo_popupmenu_msg.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\menu\\bbs_themeo_popupmenu_msg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\menu\\bbs_popup_threaddetail.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\menu\\bbs_popup_threaddetail.xml"
+    }
+]

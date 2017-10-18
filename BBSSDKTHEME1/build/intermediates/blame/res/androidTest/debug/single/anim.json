@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\liangd\\.android\\build-cache\\b28c3720243c79f5803fc3dc035750c835112f0b\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\bbs_theme1_anim_fadein.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\bundles\\debug\\res\\anim\\bbs_theme1_anim_fadein.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\liangd\\.android\\build-cache\\b28c3720243c79f5803fc3dc035750c835112f0b\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\liangd\\.android\\build-cache\\b28c3720243c79f5803fc3dc035750c835112f0b\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\liangd\\.android\\build-cache\\b28c3720243c79f5803fc3dc035750c835112f0b\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\bbs_activity_roll_down.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\anim\\bbs_activity_roll_down.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\liangd\\.android\\build-cache\\b28c3720243c79f5803fc3dc035750c835112f0b\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\liangd\\.android\\build-cache\\b28c3720243c79f5803fc3dc035750c835112f0b\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\bbs_theme1_anim_fadeout.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\bundles\\debug\\res\\anim\\bbs_theme1_anim_fadeout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\bbs_fadein.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\anim\\bbs_fadein.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\bbs_activity_roll_up.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\anim\\bbs_activity_roll_up.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\bbs_fadeout.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\anim\\bbs_fadeout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\bbs_roll_up.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\anim\\bbs_roll_up.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\liangd\\.android\\build-cache\\b28c3720243c79f5803fc3dc035750c835112f0b\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\liangd\\.android\\build-cache\\b28c3720243c79f5803fc3dc035750c835112f0b\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\bbs_roll_down.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\anim\\bbs_roll_down.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\liangd\\.android\\build-cache\\b28c3720243c79f5803fc3dc035750c835112f0b\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\liangd\\.android\\build-cache\\b28c3720243c79f5803fc3dc035750c835112f0b\\output\\res\\anim\\abc_fade_in.xml"
+    }
+]

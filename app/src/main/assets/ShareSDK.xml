@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DevInfor>
+    <ShareSDK
+        AppKey="215d567c806fa"/>
+
+    <QQ
+        AppId="1106467532"
+        AppKey="MnkAhGMzBAPBhU9x"
+        Enable="true"
+        BypassApproval="false"
+        Id="7"
+        ShareByAppClient="true"
+        SortId="7"/>
+
+    <QZone
+        AppId="1106467532"
+        AppKey="MnkAhGMzBAPBhU9x"
+        Enable="true"
+        BypassApproval="false"
+        Id="3"
+        SortId="3"/>
+
+    <Wechat
+        AppId="wx4ee37a39dc3cca75"
+        AppSecret="22396f30bca3834ca3ea68a0513e62f9"
+        BypassApproval="false"
+        Enable="true"
+        Id="4"
+        SortId="4"
+        path="/page/API/pages/share/share"
+        userName="gh_afb25ac019c9"/>
+
+    <WechatMoments
+        AppId="wx4ee37a39dc3cca75"
+        AppSecret="22396f30bca3834ca3ea68a0513e62f9"
+        BypassApproval="false"
+        Enable="true"
+        Id="5"
+        SortId="5"/>
+
+    <SinaWeibo
+        AppKey="3759359540"
+        AppSecret="5470a3341cb56ddd3ff1e8f5ead6d0a6"
+        Enable="true"
+        Id="1"
+        IsNewApi="true"
+        RedirectUrl="http://www.apkbus.com"
+        ShareByAppClient="true"
+        SortId="1"/>
+</DevInfor>

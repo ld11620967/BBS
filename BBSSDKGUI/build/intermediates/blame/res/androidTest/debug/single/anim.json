@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\bbs_activity_roll_down.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\anim\\bbs_activity_roll_down.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\bbs_activity_roll_up.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\anim\\bbs_activity_roll_up.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\bbs_fadeout.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\anim\\bbs_fadeout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\bbs_roll_up.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\anim\\bbs_roll_up.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\bbs_fadein.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\anim\\bbs_fadein.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\bbs_roll_down.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\anim\\bbs_roll_down.xml"
+    }
+]
