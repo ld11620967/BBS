@@ -16,12 +16,12 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\bundles\\debug\\res\\layout\\bbs_theme0_favoritepostitem.xml"
     },
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbs_page_forum_writethread.xml",
-        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\layout\\bbs_page_forum_writethread.xml"
-    },
-    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbs_theme0_favorites.xml",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\bundles\\debug\\res\\layout\\bbs_theme0_favorites.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbs_page_forum_writethread.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\layout\\bbs_page_forum_writethread.xml"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbs_theme0_postitem.xml",

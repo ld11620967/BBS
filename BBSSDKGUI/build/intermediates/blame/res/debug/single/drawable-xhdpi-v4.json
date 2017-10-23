@@ -8,12 +8,12 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\ssdk_oks_classic_bluetooth.png"
     },
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_evernote.png",
-        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\ssdk_oks_classic_evernote.png"
-    },
-    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_youtube.png",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\ssdk_oks_classic_youtube.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_evernote.png",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\ssdk_oks_classic_evernote.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bbs_banner_mask.png",
@@ -68,16 +68,16 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\bbs_titlebar_close_white.png"
     },
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_whatsapp.png",
-        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\ssdk_oks_classic_whatsapp.png"
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_sinaweibo.png",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\ssdk_oks_classic_sinaweibo.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bbs_myporfile_portraitbg.png",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\bbs_myporfile_portraitbg.png"
     },
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_sinaweibo.png",
-        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\ssdk_oks_classic_sinaweibo.png"
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_whatsapp.png",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\ssdk_oks_classic_whatsapp.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_linkedin.png",

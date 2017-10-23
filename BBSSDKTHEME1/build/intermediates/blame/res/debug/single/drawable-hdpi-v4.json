@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
-        "source": "C:\\Users\\liangd\\.android\\build-cache\\b28c3720243c79f5803fc3dc035750c835112f0b\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
-    },
-    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
         "source": "C:\\Users\\liangd\\.android\\build-cache\\b28c3720243c79f5803fc3dc035750c835112f0b\\output\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\liangd\\.android\\build-cache\\b28c3720243c79f5803fc3dc035750c835112f0b\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",

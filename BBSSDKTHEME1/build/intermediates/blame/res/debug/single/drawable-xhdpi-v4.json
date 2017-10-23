@@ -8,16 +8,16 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\res\\drawable-xhdpi\\bbs_theme1_title_search.png"
     },
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bbs_subject_titlecetner_dropdown.png",
-        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\bbs_subject_titlecetner_dropdown.png"
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_sinaweibo.png",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_sinaweibo.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bbs_theme1_setprofile_check.png",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\res\\drawable-xhdpi\\bbs_theme1_setprofile_check.png"
     },
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_sinaweibo.png",
-        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_sinaweibo.png"
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bbs_subject_titlecetner_dropdown.png",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\bbs_subject_titlecetner_dropdown.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bbs_clickablemenu_arrow.png",
@@ -40,12 +40,12 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\bbs_thread_loadingview_refresh.png"
     },
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_douban.png",
-        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_douban.png"
-    },
-    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bbs_theme1_message.png",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\res\\drawable-xhdpi\\bbs_theme1_message.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_douban.png",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_douban.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bbs_titlebar_close_black.png",
@@ -60,12 +60,12 @@
         "source": "C:\\Users\\liangd\\.android\\build-cache\\b28c3720243c79f5803fc3dc035750c835112f0b\\output\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_whatsapp.png",
-        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_whatsapp.png"
-    },
-    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bbs_title_search_black.png",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\bbs_title_search_black.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_whatsapp.png",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_whatsapp.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bbs_reply_addpic.png",
@@ -84,12 +84,12 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\bbs_login_question_dropdown.png"
     },
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bbs_theme1_account_white.png",
-        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\res\\drawable-xhdpi\\bbs_theme1_account_white.png"
-    },
-    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bbs_register_email.png",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\bbs_register_email.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bbs_theme1_account_white.png",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\res\\drawable-xhdpi\\bbs_theme1_account_white.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",

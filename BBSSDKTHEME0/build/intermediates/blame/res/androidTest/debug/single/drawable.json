@@ -12,16 +12,16 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable\\bbs_bg_round.xml"
     },
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbs_writepost_delline.xml",
-        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable\\bbs_writepost_delline.xml"
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbs_bg_dialog_btn_left.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable\\bbs_bg_dialog_btn_left.xml"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbs_anim_rotate.xml",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable\\bbs_anim_rotate.xml"
     },
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbs_bg_dialog_btn_left.xml",
-        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable\\bbs_bg_dialog_btn_left.xml"
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbs_writepost_delline.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable\\bbs_writepost_delline.xml"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbs_bg_roundrimgrey.xml",

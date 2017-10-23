@@ -1,5 +1,4 @@
 apply plugin: 'com.android.application'
-//apply plugin: 'AndResGuard'
 
 android {
     compileSdkVersion 26
@@ -12,12 +11,14 @@ android {
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
+
     buildTypes {
         release {
             minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+
     lintOptions {
         disable "ResourceType"
         checkReleaseBuilds false
@@ -32,29 +33,5 @@ dependencies {
     compile project(path: ':BBSSDKTHEME1')
 }
 
-
-//andResGuard {
-//    // mappingFile = file("./resource_mapping.txt")
-//    mappingFile = null
-//    use7zip = true
-//    useSign = true
-//    // 打开这个开关，会keep住所有资源的原始路径，只混淆资源的名字
-//    keepRoot = false
-//    whiteList = [
-//            // for your icon
-//            "R.drawable.icon"
-//    ]
-//    compressFilePattern = [
-//            "*.png",
-//            "*.jpg",
-//            "*.jpeg",
-//            "resources.arsc"
-//    ]
-//    sevenzip {
-//        artifact = 'com.tencent.mm:SevenZip:1.2.7'
-//        //path = "/usr/local/bin/7za"  --- Linux
-//        //path = "D:\7za\7za.exe" --- Windows
-//    }
-//}
 
 

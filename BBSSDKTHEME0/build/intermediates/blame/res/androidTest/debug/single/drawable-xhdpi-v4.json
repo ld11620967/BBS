@@ -12,12 +12,12 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bbs_theme0_search_close.png"
     },
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\bbs_login_answer.png",
-        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\bbs_login_answer.png"
-    },
-    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\bbs_theme0_setprofile_img.png",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bbs_theme0_setprofile_img.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\bbs_login_answer.png",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\bbs_login_answer.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\bbs_writepost_delline_p.png",
@@ -132,12 +132,12 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\bbs_post_reply.png"
     },
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\bbs_ic_writethread_failed.png",
-        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\bbs_ic_writethread_failed.png"
-    },
-    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\bbs_pagesubject_titlecenter_stime.png",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\bbs_pagesubject_titlecenter_stime.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\bbs_ic_writethread_failed.png",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\bbs_ic_writethread_failed.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\bbs_selectsubject_item_default.png",
@@ -168,12 +168,12 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bbs_theme0_unfollow.png"
     },
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\bbs_theme0_userprofile_img.png",
-        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bbs_theme0_userprofile_img.png"
-    },
-    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\bbssdk_umssdk_default_go_details.png",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bbssdk_umssdk_default_go_details.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\bbs_theme0_userprofile_img.png",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bbs_theme0_userprofile_img.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\bbs_title_more.png",

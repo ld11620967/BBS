@@ -28,12 +28,12 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\layout\\bbs_view_main.xml"
     },
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_layout_otheruserprofile.xml",
-        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\layout\\bbs_layout_otheruserprofile.xml"
-    },
-    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_postitem.xml",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_postitem.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_layout_otheruserprofile.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\layout\\bbs_layout_otheruserprofile.xml"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_otheruserprofile.xml",

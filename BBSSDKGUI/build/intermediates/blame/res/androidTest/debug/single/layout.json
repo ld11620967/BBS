@@ -52,12 +52,12 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\layout\\bbs_page_forum_reportaccusation.xml"
     },
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbs_page_forum_search.xml",
-        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\layout\\bbs_page_forum_search.xml"
-    },
-    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbs_page_misc_posts.xml",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\layout\\bbs_page_misc_posts.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbs_page_forum_search.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\layout\\bbs_page_forum_search.xml"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbs_item_defaultfavorite.xml",

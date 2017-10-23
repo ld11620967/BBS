@@ -4,12 +4,12 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\res\\layout\\bbs_theme1_login.xml"
     },
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme1_myfollowers.xml",
-        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\res\\layout\\bbs_theme1_myfollowers.xml"
-    },
-    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
         "source": "C:\\Users\\liangd\\.android\\build-cache\\b28c3720243c79f5803fc3dc035750c835112f0b\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme1_myfollowers.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\res\\layout\\bbs_theme1_myfollowers.xml"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",

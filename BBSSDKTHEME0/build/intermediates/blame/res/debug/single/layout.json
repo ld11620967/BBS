@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_page_misc_theme0userprofile.xml",
-        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\layout\\bbs_page_misc_theme0userprofile.xml"
-    },
-    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_theme0_item_favorite.xml",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_item_favorite.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_page_misc_theme0userprofile.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\layout\\bbs_page_misc_theme0userprofile.xml"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_reply_addpic.xml",
@@ -32,12 +32,12 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\layout\\bbs_layout_otheruserprofile.xml"
     },
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_item_forumsetting.xml",
-        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\layout\\bbs_item_forumsetting.xml"
-    },
-    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_activity_main.xml",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\layout\\bbs_activity_main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_item_forumsetting.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\layout\\bbs_item_forumsetting.xml"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_item_defaultthread.xml",
@@ -52,12 +52,12 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_otheruserprofile.xml"
     },
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_item_following.xml",
-        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\layout\\bbs_item_following.xml"
-    },
-    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_theme0_maintitlecenterview.xml",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_maintitlecenterview.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_item_following.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\default\\res\\layout\\bbs_item_following.xml"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_page_misc_followers.xml",

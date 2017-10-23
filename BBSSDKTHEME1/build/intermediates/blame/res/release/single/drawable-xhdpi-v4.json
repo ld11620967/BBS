@@ -28,12 +28,12 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\bbs_theme0_postitem_reply.png"
     },
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
-        "source": "C:\\Users\\liangd\\.android\\build-cache\\b28c3720243c79f5803fc3dc035750c835112f0b\\output\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
-    },
-    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bbs_theme0_setprofile_msgunread.png",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\bbs_theme0_setprofile_msgunread.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\liangd\\.android\\build-cache\\b28c3720243c79f5803fc3dc035750c835112f0b\\output\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bbs_ic_more.png",

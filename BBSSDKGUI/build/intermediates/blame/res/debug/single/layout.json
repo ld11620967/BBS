@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_page_profile_editprofile.xml",
-        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\layout\\bbs_page_profile_editprofile.xml"
-    },
-    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_item_forumsetting.xml",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\layout\\bbs_item_forumsetting.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_page_profile_editprofile.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\layout\\bbs_page_profile_editprofile.xml"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_page_misc_theme0userprofiledetails.xml",
@@ -36,12 +36,12 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\layout\\bbs_view_replyeditor.xml"
     },
     {
-        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_page_misc_userprofile.xml",
-        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\layout\\bbs_page_misc_userprofile.xml"
-    },
-    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_editsignature.xml",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\layout\\bbs_editsignature.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_page_misc_userprofile.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\layout\\bbs_page_misc_userprofile.xml"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_item_following.xml",
