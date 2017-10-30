@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml:1:1-11:12
+INJECTED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml:1:1-11:12
+INJECTED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml:1:1-11:12
+INJECTED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml:1:1-11:12
+INJECTED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml:1:1-11:12
+INJECTED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml:1:1-11:12
+INJECTED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml:1:1-11:12
+	package
+		ADDED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml:2:11-42
+		INJECTED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml
+		INJECTED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml
+		ADDED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml:1:1-11:12
+		INJECTED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml
+		ADDED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml:1:1-11:12
+		INJECTED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml:1:11-69
+application
+ADDED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml:4:5-10:19
+activity#com.mob.bbssdk.theme1.page.AnotherActivity
+ADDED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml:5:9-9:20
+	android:theme
+		ADDED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml:7:13-66
+	android:name
+		ADDED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml:6:13-49
+uses-sdk
+INJECTED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml
+INJECTED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml
+INJECTED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml
+INJECTED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml
+		ADDED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml
+		INJECTED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml
+		ADDED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml
+		INJECTED from D:\workspace\android\BBS\BBSSDKTHEME1\AndroidManifest.xml
