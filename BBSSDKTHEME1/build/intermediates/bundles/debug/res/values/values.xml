@@ -3,12 +3,15 @@
     <color name="bbs_theme1_blue">#5b7ef0</color>
     <color name="bbs_theme1_cancelgrey">#acadb8</color>
     <color name="bbs_theme1_defaultyellow">#ffb85c</color>
+    <color name="bbs_theme1_divider">#f2f4f7</color>
+    <color name="bbs_theme1_maintitleblack">#4e4f57</color>
     <color name="bbs_theme1_pagetext">#6a7081</color>
     <color name="bbs_theme1_statusbar_grey">#ededef</color>
     <color name="bbs_theme1_user_bg">#f2f3f7</color>
     <color name="bbs_theme1_userinputhinttext">#acadb8</color>
     <color name="bbs_theme1_userprofile_bg">#deddde</color>
     <declare-styleable name="SlidingTabLayout"><attr format="color" name="indicatorColor"/><attr format="boolean" name="shouldExpand"/><attr format="reference" name="tabBackground"/><attr format="reference" name="tabBackgroundTextViewId"/></declare-styleable>
+    <dimen name="bbs_forumlistview_banner_height">245dp</dimen>
     <dimen name="bbs_theme1_title_txt_size">17sp</dimen>
     <dimen name="bbs_theme1_userinputtext">14sp</dimen>
     <dimen name="header_height">250dp</dimen>

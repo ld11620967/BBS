@@ -26,6 +26,8 @@
     <color name="bbs_chooser_dialog_txt_color">#666666</color>
     <color name="bbs_confim_resend">#00abff</color>
     <color name="bbs_divider">#d8d8d8</color>
+    <color name="bbs_emoji_selected">#ffffff</color>
+    <color name="bbs_emoji_unselected">#f2f3f7</color>
     <color name="bbs_empty_view_txt_color">#999999</color>
     <color name="bbs_footer_txt_color">#A3A3A3</color>
     <color name="bbs_forum_thread_list_item_bg_n">#FFFFFF</color>
@@ -59,6 +61,7 @@
     <color name="bbs_red">#c61f01</color>
     <color name="bbs_selectsubject_title">#3a4045</color>
     <color name="bbs_statusbar_bg">#4d546d</color>
+    <color name="bbs_statusbar_grey">#a1a1a1</color>
     <color name="bbs_subject_item_name">#3a4045</color>
     <color name="bbs_subject_title">#a3a2aa</color>
     <color name="bbs_subject_titlecenter">#323232</color>
@@ -88,6 +91,8 @@
             <enum name="rightTop" value="4"/>
             <enum name="leftTop" value="5"/>
         </attr><attr format="dimension|reference" name="indicatorSpace"/><attr format="dimension|reference" name="indicatorMargin"/><attr format="integer|reference" name="autoPlayDuration"/><attr format="integer|reference" name="scrollDuration"/><attr format="boolean" name="isAutoPlay"/></declare-styleable>
+    <declare-styleable name="GifTextureView"><attr format="reference|string" name="gifSource"/><attr format="boolean" name="isOpaque"/></declare-styleable>
+    <declare-styleable name="GifView"><attr format="boolean" name="freezesAnimation"/><attr format="integer" name="loopCount"/></declare-styleable>
     <declare-styleable name="GlideImageViewStyle"><attr format="boolean" name="roundedPic"/><attr format="dimension|reference" name="roundCorner"/></declare-styleable>
     <declare-styleable name="SlideableTabView"><attr format="color" name="defaultColor"/><attr format="color" name="selectColor"/><attr format="color" name="bottomLineColor"/><attr format="dimension" name="textSize"/><attr format="dimension" name="textPadding"/><attr format="dimension" name="bottomLineHeight"/></declare-styleable>
     <dimen name="bbs_activemail_resend_txt_size">16sp</dimen>
@@ -101,7 +106,7 @@
     <dimen name="bbs_footer_txt_size">12sp</dimen>
     <dimen name="bbs_forum_thread_list_divider_height">0.5dp</dimen>
     <dimen name="bbs_forum_thread_list_item_avatar_size">25dp</dimen>
-    <dimen name="bbs_forumlistview_banner_height">183dp</dimen>
+    <dimen name="bbs_forumlistview_banner_height">200dp</dimen>
     <dimen name="bbs_forumlistview_header_height">293dp</dimen>
     <dimen name="bbs_header_txt_size">12sp</dimen>
     <dimen name="bbs_menu_tab_divider_height">0.5dp</dimen>
@@ -167,26 +172,23 @@
     <string name="bbs_editsignature_submitsuccess">修改签名成功！</string>
     <string name="bbs_email_wrongformat">邮箱格式不正确！</string>
     <string name="bbs_empty_view_str">暂无内容</string>
-    <string name="bbs_error_code_1000">网络超时或数据处理异常，请重试</string>
-    <string name="bbs_error_code_1001">Appkey未配置，请检查</string>
-    <string name="bbs_error_code_1002">论坛尚未初始化成功，请重试</string>
-    <string name="bbs_error_code_1003">请求服务端接口失败，请重试</string>
-    <string name="bbs_error_code_1004">插件返回数据异常，请检查插件是否正确安装和启用，再重试</string>
-    <string name="bbs_error_code_1101">上传图片失败，请重试</string>
-    <string name="bbs_error_code_1102">抱歉，当前无权限发帖</string>
-    <string name="bbs_error_code_1103">抱歉，当前无权限回帖</string>
-    <string name="bbs_error_code_1200">用户登录信息过期，请重新登录</string>
-    <string name="bbs_error_code_1201">用户名或密码错误，用户状态异常，请重新输入</string>
-    <string name="bbs_error_code_1202">抱歉，当前不允许注册，请联系管理员</string>
-    <string name="bbs_error_code_1203">用户名或密码或邮箱格式不正确，请重新输入</string>
-    <string name="bbs_error_code_1204">该用户名或邮箱已被占用，请更换</string>
-    <string name="bbs_error_code_1205">请选择安全问题，并正确填写</string>
-    <string name="bbs_error_code_1206">等待激活中，请进行邮箱验证</string>
-    <string name="bbs_error_code_1207">邮件发送失败，可重新发送邮箱验证</string>
-    <string name="bbs_error_code_1208">提交成功，请等待人工审核</string>
-    <string name="bbs_error_code_1209">找回密码失败，用户名或邮箱不存在，请重新输入</string>
-    <string name="bbs_error_code_1210">请输入用户名或邮箱</string>
-    <string name="bbs_error_code_500">服务器异常，请重试</string>
+    <string name="bbs_error_code_111">用户登录信息过期，请重新登录</string>
+    <string name="bbs_error_code_303">Appkey未配置，请检查</string>
+    <string name="bbs_error_code_306">论坛尚未初始化成功，请重试</string>
+    <string name="bbs_error_code_601">用户名或密码错误，用户状态异常，请重新输入</string>
+    <string name="bbs_error_code_602">抱歉，当前不允许注册，请联系管理员</string>
+    <string name="bbs_error_code_603">用户名或密码或邮箱格式不正确，请重新输入</string>
+    <string name="bbs_error_code_604">该用户名或邮箱已被占用，请更换</string>
+    <string name="bbs_error_code_605">请选择安全问题，并正确填写</string>
+    <string name="bbs_error_code_606">等待激活中，请进行邮箱验证</string>
+    <string name="bbs_error_code_607">邮件发送失败，可重新发送邮箱验证</string>
+    <string name="bbs_error_code_608">提交成功，请等待人工审核</string>
+    <string name="bbs_error_code_609">抱歉，当前无权限发帖</string>
+    <string name="bbs_error_code_610">抱歉，当前无权限回帖</string>
+    <string name="bbs_error_code_611">找回密码失败，用户名或邮箱不存在，请重新输入</string>
+    <string name="bbs_error_code_80001">上传图片失败，请重试</string>
+    <string name="bbs_error_code_90000">网络连接超时，请稍后再试！</string>
+    <string name="bbs_error_code_90001">网络超时或数据处理异常，请重试！</string>
     <string name="bbs_error_code_unknown">未知错误！</string>
     <string name="bbs_error_view_str">网络不佳，请再次刷新</string>
     <string name="bbs_favorite_success">成功收藏！</string>
@@ -308,12 +310,14 @@
     <string name="bbs_timediff_hourbefore">小时前</string>
     <string name="bbs_timediff_just">刚刚</string>
     <string name="bbs_timediff_minutebefore">分钟前</string>
+    <string name="bbs_timediff_yesterday">昨天</string>
     <string name="bbs_tip_get_cache_failed">获取缓存失败</string>
     <string name="bbs_tip_net_timeout">网络超时</string>
     <string name="bbs_tip_upload_img_failed">上传图片失败</string>
     <string name="bbs_tip_upload_img_oversize">上传图片限制10M以内</string>
     <string name="bbs_toast_save_pic_failed">保存失败</string>
     <string name="bbs_toast_save_pic_success">保存成功</string>
+    <string name="bbs_tokeninvalid_relogin">Token无效，请重新登录!</string>
     <string name="bbs_unfavorite_body">确定取消收藏吗？</string>
     <string name="bbs_unfavorite_btn_neg">取消</string>
     <string name="bbs_unfavorite_btn_pos">确定</string>

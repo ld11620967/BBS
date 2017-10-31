@@ -72,6 +72,10 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\layout\\bbs_page_misc_followers.xml"
     },
     {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_bbs_reply_emoji_grapeman.png.flat",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bbs_reply_emoji_grapeman.png"
+    },
+    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ssdk_oks_classic_wechatfavorite.png.flat",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_wechatfavorite.png"
     },
@@ -134,6 +138,10 @@
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_bbs_writepost_bold_n.png.flat",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bbs_writepost_bold_n.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_bbs_add_emoji.png.flat",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bbs_add_emoji.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ssdk_oks_classic_alipay.png.flat",
@@ -268,6 +276,10 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bbs_selectsubject_item_default.png"
     },
     {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_bbs_replywindow_emojigrid.xml.flat",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\layout\\bbs_replywindow_emojigrid.xml"
+    },
+    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_bbs_pulltorefresh_header.xml.flat",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\layout\\bbs_pulltorefresh_header.xml"
     },
@@ -362,6 +374,10 @@
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_bbs_writepost_italic.xml.flat",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbs_writepost_italic.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_bbs_reply_showkeyboard.png.flat",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bbs_reply_showkeyboard.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_bbs_banner_mask.png.flat",
@@ -728,6 +744,10 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_dropbox.png"
     },
     {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_bbs_reply_emoji_coolmonkey.png.flat",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bbs_reply_emoji_coolmonkey.png"
+    },
+    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_bbs_writepost_bold.xml.flat",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbs_writepost_bold.xml"
     },
@@ -766,6 +786,10 @@
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_bbs_menu_tab_txt_color.xml.flat",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\color\\bbs_menu_tab_txt_color.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_bbs_theme0_reply_emoji.png.flat",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bbs_theme0_reply_emoji.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_bbs_bgpopupmenu.png.flat",
@@ -838,6 +862,10 @@
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_bbs_item_following.xml.flat",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\layout\\bbs_item_following.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_bbs_reply_emoji_general.png.flat",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bbs_reply_emoji_general.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ssdk_oks_classic_evernote.png.flat",
