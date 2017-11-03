@@ -5,11 +5,11 @@
     android:layout_height="match_parent"
     tools:context="com.apkbus.bbs.MainActivity">
 
-    <com.mob.bbssdk.gui.views.MainView
+    <com.mob.bbssdk.theme0.view.Theme0MainView
         android:id="@+id/mainView"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-    </com.mob.bbssdk.gui.views.MainView>
+    </com.mob.bbssdk.theme0.view.Theme0MainView>
 
 </android.support.constraint.ConstraintLayout>

@@ -28,6 +28,22 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="apkbuslink" android:host="com.apkbus.bbs" android:path="/thread/detail"/>
+            </intent-filter>
+
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="http" android:host="8e4y.ulml.mob.com" android:path="/http"/>
+                <data android:scheme="https" android:host="8e4y.ulml.mob.com" android:path="/https"/>
+            </intent-filter>
+
         </activity>
 
         <activity
@@ -68,7 +84,6 @@
             android:name=".wxapi.WXEntryActivity"
             android:exported="true"
             android:targetActivity="cn.sharesdk.demo.wxapi.WXEntryActivity" />
-
 
         <meta-data
             android:name="Mob-AppKey"
