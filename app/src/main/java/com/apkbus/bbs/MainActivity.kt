@@ -5,7 +5,7 @@ import android.content.Intent
 import android.os.Bundle
 import com.mob.bbssdk.gui.BaseMainActivity
 import com.mob.bbssdk.model.ForumThreadAttachment
-import com.mob.moblink.RestoreSceneListener;
+import com.mob.moblink.RestoreSceneListener
 import java.util.HashMap
 import com.mob.bbssdk.gui.BBSViewBuilder
 import com.mob.bbssdk.utils.StringUtils
@@ -16,7 +16,7 @@ class MainActivity : BaseMainActivity(), RestoreSceneListener {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        MobLink.setRestoreSceneListener(this);
+        MobLink.setRestoreSceneListener(this)
     }
 
     var strUrl: String? = null
