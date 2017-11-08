@@ -8,6 +8,14 @@
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
     <application
         android:name=".BBSApplication"
         android:allowBackup="false"
@@ -28,17 +36,30 @@
 
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
-                <category android:name="android.intent.category.DEFAULT"/>
-                <category android:name="android.intent.category.BROWSABLE"/>
-                <data android:scheme="apkbuslink" android:host="com.apkbus.bbs" android:path="/thread/detail"/>
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="com.apkbus.bbs"
+                    android:path="/thread/detail"
+                    android:scheme="apkbuslink" />
             </intent-filter>
 
             <intent-filter android:autoVerify="true">
                 <action android:name="android.intent.action.VIEW" />
-                <category android:name="android.intent.category.DEFAULT"/>
-                <category android:name="android.intent.category.BROWSABLE"/>
-                <data android:scheme="http" android:host="8e4y.ulml.mob.com" android:path="/http"/>
-                <data android:scheme="https" android:host="8e4y.ulml.mob.com" android:path="/https"/>
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="8e4y.ulml.mob.com"
+                    android:path="/http"
+                    android:scheme="http" />
+                <data
+                    android:host="8e4y.ulml.mob.com"
+                    android:path="/https"
+                    android:scheme="https" />
             </intent-filter>
         </activity>
 

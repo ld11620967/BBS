@@ -12,42 +12,40 @@ import com.mob.bbssdk.utils.StringUtils
 import com.mob.moblink.MobLink
 
 
-class MainActivity : BaseMainActivity(), RestoreSceneListener {
-
+class MainActivity : BaseMainActivity() {
+    var strUrl: String? = null
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        MobLink.setRestoreSceneListener(this)
-    }
 
-    var strUrl: String? = null
+        MobLink.setRestoreSceneListener(object : RestoreSceneListener {
+            override fun onBeginCheckScene() {
 
-    override fun onReturnSceneIntent(p0: String?, p1: Intent?): Boolean {
-        return false
-    }
-
-    override fun onFinishCheckScene() {
-    }
-
-    override fun onBeginCheckScene() {
-    }
-
-    override fun onReturnSceneData(activity: Activity?, hashMap: HashMap<String, Any>?) {
-        val urlvalue = hashMap!!.get("ulurl")
-        if (urlvalue != null && urlvalue is String) {
-            strUrl = urlvalue as String
-
-            //open web link page if valid
-            if (!StringUtils.isEmpty(strUrl)) {
-                val web = BBSViewBuilder.getInstance().buildPageWeb()
-                web.setLink(strUrl)
-                web.show(this@MainActivity)
             }
-        }
+
+            override fun onFinishCheckScene() {
+
+            }
+
+            override fun onReturnSceneIntent(s: String, intent: Intent): Boolean {
+                return false
+            }
+
+            override fun onReturnSceneData(activity: Activity, hashMap: HashMap<String, Any>) {
+                val urlvalue = hashMap["ulurl"]
+                if (urlvalue != null && urlvalue is String) {
+                    strUrl = urlvalue
+                }
+                //open web link page if valid
+                if (!StringUtils.isEmpty(strUrl)) {
+                    val web = BBSViewBuilder.getInstance().buildPageWeb()
+                    web.setLink(strUrl)
+                    web.show(this@MainActivity)
+                }
+            }
+        })
     }
 
     override fun OnAttachmentClick(attachment: ForumThreadAttachment) {
         super.OnAttachmentClick(attachment)
     }
 }
-
-
