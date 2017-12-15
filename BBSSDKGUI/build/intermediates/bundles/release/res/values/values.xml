@@ -16,6 +16,7 @@
     <color name="bbs_attachment_name_txt_color">#000000</color>
     <color name="bbs_attachment_progress_bar_bg">#88BE66</color>
     <color name="bbs_attachment_progress_bar_bg_back">#E0E0E2</color>
+    <color name="bbs_banner_bg">#cfd3d9</color>
     <color name="bbs_bg">#ffffff</color>
     <color name="bbs_black">#000000</color>
     <color name="bbs_blue">#4e9ee4</color>
@@ -143,7 +144,9 @@
     <string name="bbs_cancel">取消</string>
     <string name="bbs_cant_follower_yourself">自己不能关注自己！</string>
     <string name="bbs_cant_reportaccusation_self">自己不能举报自己！</string>
-    <string name="bbs_clearcache_success">清空缓存!</string>
+    <string name="bbs_clear_cache">清理缓存</string>
+    <string name="bbs_clearcache_ing">正在清空缓存!</string>
+    <string name="bbs_clearcache_success">已经清空缓存!</string>
     <string name="bbs_common_cancel">取消</string>
     <string name="bbs_common_ok">确定</string>
     <string name="bbs_common_prompt">提示</string>
@@ -225,6 +228,11 @@
     <string name="bbs_message_system">系统消息</string>
     <string name="bbs_message_threadinvalid">帖子无法找到！</string>
     <string name="bbs_open_file_chooser">选择打开方式</string>
+    <string name="bbs_other_login">其它登录方式</string>
+    <string name="bbs_other_login_bind">立即绑定</string>
+    <string name="bbs_other_login_bind_hint">您如果已通过其他方式注册过本论坛的账号\n可输入注册的用户名和密码进行绑定</string>
+    <string name="bbs_other_login_bind_title">绑定账号</string>
+    <string name="bbs_other_login_go">直接进入</string>
     <string name="bbs_pagelogin_title">登录</string>
     <string name="bbs_pageractiveconfirm_title">验证激活</string>
     <string name="bbs_pageregister_title">注册</string>

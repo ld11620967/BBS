@@ -6,6 +6,7 @@
     <color name="bbs_theme1_divider">#f2f4f7</color>
     <color name="bbs_theme1_maintitleblack">#4e4f57</color>
     <color name="bbs_theme1_pagetext">#6a7081</color>
+    <color name="bbs_theme1_statusbar">#ffffff</color>
     <color name="bbs_theme1_statusbar_grey">#ededef</color>
     <color name="bbs_theme1_user_bg">#f2f3f7</color>
     <color name="bbs_theme1_userinputhinttext">#acadb8</color>

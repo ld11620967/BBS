@@ -16,6 +16,10 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\bbs_search_close.png"
     },
     {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_country_back_arrow.png",
+        "source": "C:\\Users\\liangd\\.gradle\\caches\\transforms-1\\files-1.1\\ShareSDK-3.1.2.aar\\09a606f4564ed2f726caef8881a265f7\\res\\drawable-xhdpi-v4\\ssdk_country_back_arrow.png"
+    },
+    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bbs_setprofile_check.png",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\bbs_setprofile_check.png"
     },
@@ -152,6 +156,10 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\bbs_ic_def_error_pic.png"
     },
     {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_weibo_common_shadow_top.9.png",
+        "source": "C:\\Users\\liangd\\.gradle\\caches\\transforms-1\\files-1.1\\ShareSDK-3.1.2.aar\\09a606f4564ed2f726caef8881a265f7\\res\\drawable-xhdpi-v4\\ssdk_weibo_common_shadow_top.9.png"
+    },
+    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bbs_writepost_addpic.png",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\bbs_writepost_addpic.png"
     },
@@ -212,12 +220,20 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\bbs_pagesubject_reply.png"
     },
     {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_input_bg_focus.9.png",
+        "source": "C:\\Users\\liangd\\.gradle\\caches\\transforms-1\\files-1.1\\ShareSDK-3.1.2.aar\\09a606f4564ed2f726caef8881a265f7\\res\\drawable-xhdpi-v4\\ssdk_input_bg_focus.9.png"
+    },
+    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bbs_titlebar_back_black.png",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\bbs_titlebar_back_black.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bbs_ic_del.png",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\bbs_ic_del.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_telegram.png",
+        "source": "C:\\Users\\liangd\\.gradle\\caches\\transforms-1\\files-1.1\\OneKeyShare-3.1.2.aar\\5599d80e84ea0519ebe33852e3731015\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_telegram.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bbs_title_writepost.png",
@@ -250,6 +266,10 @@
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bbs_ic_comment.png",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\bbs_ic_comment.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_weibo_empty_failed.png",
+        "source": "C:\\Users\\liangd\\.gradle\\caches\\transforms-1\\files-1.1\\ShareSDK-3.1.2.aar\\09a606f4564ed2f726caef8881a265f7\\res\\drawable-xhdpi-v4\\ssdk_weibo_empty_failed.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_flickr.png",
@@ -286,6 +306,10 @@
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bbs_pagesubject_titlecenter_s_comment.png",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\bbs_pagesubject_titlecenter_s_comment.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_country_sharesdk_icon.png",
+        "source": "C:\\Users\\liangd\\.gradle\\caches\\transforms-1\\files-1.1\\ShareSDK-3.1.2.aar\\09a606f4564ed2f726caef8881a265f7\\res\\drawable-xhdpi-v4\\ssdk_country_sharesdk_icon.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bbs_pagesubject_titlecenter_stime.png",
@@ -416,6 +440,10 @@
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\bbs_reply_emoji_general.png"
     },
     {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_country_cl_divider.png",
+        "source": "C:\\Users\\liangd\\.gradle\\caches\\transforms-1\\files-1.1\\ShareSDK-3.1.2.aar\\09a606f4564ed2f726caef8881a265f7\\res\\drawable-xhdpi-v4\\ssdk_country_cl_divider.png"
+    },
+    {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bbs_postitem_sticktop.png",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\bbs_postitem_sticktop.png"
     },
@@ -430,6 +458,10 @@
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bbs_otheruserprofile_unfollow.png",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\bbs_otheruserprofile_unfollow.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_country_clear_search.png",
+        "source": "C:\\Users\\liangd\\.gradle\\caches\\transforms-1\\files-1.1\\ShareSDK-3.1.2.aar\\09a606f4564ed2f726caef8881a265f7\\res\\drawable-xhdpi-v4\\ssdk_country_clear_search.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bbs_writepost_bold_n.png",
@@ -454,6 +486,10 @@
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_alipay.png",
         "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\res\\drawable-xhdpi\\ssdk_oks_classic_alipay.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_country_search_icon.png",
+        "source": "C:\\Users\\liangd\\.gradle\\caches\\transforms-1\\files-1.1\\ShareSDK-3.1.2.aar\\09a606f4564ed2f726caef8881a265f7\\res\\drawable-xhdpi-v4\\ssdk_country_search_icon.png"
     },
     {
         "merged": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bbs_title_search.png",

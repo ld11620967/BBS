@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_item_follower.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_item_follower.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_view_forumforum.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_view_forumforum.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_forum_search.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_forum_search.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_item_searchhistory.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_item_searchhistory.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_account_registerconfirm.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_account_registerconfirm.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_item_selectsubject.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_item_selectsubject.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_view_main.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_view_main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_postitem.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_postitem.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_layout_otheruserprofile.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_layout_otheruserprofile.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_otheruserprofile.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_otheruserprofile.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_reply_editor.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_reply_editor.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_misc_messagedetails.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_misc_messagedetails.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_item_post.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_item_post.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_layout_banner.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_theme0_layout_banner.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_history.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_history.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_item_favorite.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_item_favorite.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_account_retrievepassword.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_account_retrievepassword.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_misc_history.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_misc_history.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_retrievepassword.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_retrievepassword.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_view_replyeditor.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_view_replyeditor.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_view_requestloading.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_view_requestloading.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_favoritepostitem.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_favoritepostitem.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_reactiveconfirm.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_reactiveconfirm.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_misc_favorites.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_misc_favorites.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_registerconfirm.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_registerconfirm.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_item_defaultfavorite.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_item_defaultfavorite.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_forumforum.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_forumforum.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_account_login.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_account_login.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_pulltorefresh_footer.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_pulltorefresh_footer.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_reply_addpic.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_reply_addpic.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_misc_theme0userprofile.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_misc_theme0userprofile.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_forumsubjectthread.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_forumsubjectthread.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_item_history.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_item_history.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_misc_followers.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_misc_followers.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_account_reactiveconfirm.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_account_reactiveconfirm.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_maintitlecenterview.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_maintitlecenterview.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_editsignature.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_editsignature.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_userprofile.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_userprofile.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_editprofile.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_editprofile.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_forum_forumthread.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_forum_forumthread.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_item_search.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_item_search.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_profile_editprofile.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_profile_editprofile.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_activity_main.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_activity_main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_favorites.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_favorites.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_layout_test.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_layout_test.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_account_register.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_account_register.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_item_favorite.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_item_favorite.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_forum_titlecenter.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_forum_titlecenter.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_item_following.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_item_following.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_retrievepasswordconfirm.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_retrievepasswordconfirm.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_messagedetails.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_messagedetails.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_main.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_account_retrievepasswordconfirm.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_account_retrievepasswordconfirm.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_item_forumpost.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_item_forumpost.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_profile_editsignature.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_profile_editsignature.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_reportaccusation.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_reportaccusation.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_messages.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_messages.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_item_forumthread.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_item_forumthread.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_subject_list_item.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_subject_list_item.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_item_banner.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_item_banner.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_msgitem.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_msgitem.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_misc_posts.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_misc_posts.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_forumthreadview.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_forumthreadview.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_replywindow_emojigrid.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_replywindow_emojigrid.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_pageitem_footer.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_pageitem_footer.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_misc_userprofile.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_misc_userprofile.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_item_defaultmythread.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_item_defaultmythread.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_forum_writethread.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_forum_writethread.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_login.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_login.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_activity_bind.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_activity_bind.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_misc_followings.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_misc_followings.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_forum_reportaccusation.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_forum_reportaccusation.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_sysmsg.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_sysmsg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_misc_theme0userprofiledetails.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_misc_theme0userprofiledetails.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_pulltorefresh_header.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_pulltorefresh_header.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_register.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_register.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_item_message.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_item_message.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_editsignature.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_editsignature.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_followers.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_followers.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_view_maintitlecenter.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_view_maintitlecenter.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_forumforum_sticktopitem.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_forumforum_sticktopitem.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_layout_forumthreadview.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_layout_forumthreadview.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_item_forumsetting.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_item_forumsetting.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_followings.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_followings.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_writethread.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_writethread.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_userprofiledetails.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_userprofiledetails.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_posts.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_posts.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_theme0_activity_main.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\res\\layout\\bbs_theme0_activity_main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_divider.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_divider.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_misc_messages.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_misc_messages.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_item_defaultthread.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_item_defaultthread.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME0\\build\\intermediates\\res\\merged\\release\\layout\\bbs_page_profile_otheruserprofile.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\layout\\bbs_page_profile_otheruserprofile.xml"
+    }
+]

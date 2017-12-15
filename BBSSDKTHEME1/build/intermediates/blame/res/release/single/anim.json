@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\release\\anim\\bbs_activity_roll_down.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\anim\\bbs_activity_roll_down.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\release\\anim\\bbs_theme1_anim_fadein.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\res\\anim\\bbs_theme1_anim_fadein.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\release\\anim\\bbs_fadeout.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\anim\\bbs_fadeout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\release\\anim\\bbs_activity_roll_up.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\anim\\bbs_activity_roll_up.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\release\\anim\\bbs_fadein.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\anim\\bbs_fadein.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\release\\anim\\bbs_theme1_anim_fadeout.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\res\\anim\\bbs_theme1_anim_fadeout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\release\\anim\\bbs_roll_down.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\anim\\bbs_roll_down.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\release\\anim\\bbs_roll_up.xml",
+        "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\anim\\bbs_roll_up.xml"
+    }
+]

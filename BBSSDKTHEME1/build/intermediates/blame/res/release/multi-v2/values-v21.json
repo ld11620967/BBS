@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\res\\merged\\release\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,350",
+                        "endLines": "6,9",
+                        "endColumns": "12,12",
+                        "endOffsets": "345,501"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\workspace\\android\\BBS\\BBSSDKTHEME1\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "D:\\workspace\\android\\BBS\\BBSSDKGUI\\build\\intermediates\\bundles\\release\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,350",
+                        "endLines": "6,9",
+                        "endColumns": "12,12",
+                        "endOffsets": "345,501"
+                    }
+                }
+            ]
+        }
+    ]
+}
