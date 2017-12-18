@@ -8,33 +8,33 @@ MobSDK {
         //平台配置信息
         devInfo {
             SinaWeibo {
-                appKey "4244735359"
-                appSecret "3c5e2fba33c8a61095af14b8e9818b47"
-                callbackUri "http://www.sharesdk.cn"
+                appKey "3759359540"
+                appSecret "5470a3341cb56ddd3ff1e8f5ead6d0a6"
+                callbackUri "http://www.apkbus.com"
                 shareByAppClient true
             }
             Wechat {
-                appId "wx8f541f6c92eaca46"
-                appSecret "649d76cdd54af433cb696478db6ef0f4"
+                appId "wx4ee37a39dc3cca75"
+                appSecret "22396f30bca3834ca3ea68a0513e62f9"
                 path "/page/API/pages/share/share"
                 userName "gh_afb25ac019c9"
                 bypassApproval false
             }
             WechatMoments {
-                appId "wx8f541f6c92eaca46"
-                appSecret "649d76cdd54af433cb696478db6ef0f4"
+                appId "wx4ee37a39dc3cca75"
+                appSecret "22396f30bca3834ca3ea68a0513e62f9"
                 bypassApproval false
             }
             QQ {
-                appId "1106410295"
-                appKey "KEYQXjmJrcrh2BcSQAP"
+                appId "1106467532"
+                appKey "MnkAhGMzBAPBhU9x"
                 shareByAppClient true
                 bypassApproval false
 
             }
             QZone {
-                appId "1106410295"
-                appKey "KEYQXjmJrcrh2BcSQAP"
+                appId "1106467532"
+                appKey "MnkAhGMzBAPBhU9x"
                 bypassApproval false
             }
         }
